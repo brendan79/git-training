@@ -7,6 +7,25 @@
     <documentationStatus xmi:id="_47tq4PvBEeeCwr3g5n4vPA" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_47tq4fvBEeeCwr3g5n4vPA" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_47tq4vvBEeeCwr3g5n4vPA" label="validated" code="VAL"/>
+    <ItemsRelations xmi:id="_uB1h0PvCEeeCwr3g5n4vPA">
+      <baseItem xmi:id="_uB1h0fvCEeeCwr3g5n4vPA" id="_Z-M0YPvCEeeCwr3g5n4vPA" version="0.1" type="job"/>
+      <relatedItems xmi:id="_uB1h0vvCEeeCwr3g5n4vPA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_uB1h0_vCEeeCwr3g5n4vPA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_uB1h1PvCEeeCwr3g5n4vPA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_uB1h1fvCEeeCwr3g5n4vPA" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_uB1h1vvCEeeCwr3g5n4vPA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_uB1h1_vCEeeCwr3g5n4vPA" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_uB1h2PvCEeeCwr3g5n4vPA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_uB1h2fvCEeeCwr3g5n4vPA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_uB1h2vvCEeeCwr3g5n4vPA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_uB1h2_vCEeeCwr3g5n4vPA" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_uB1h3PvCEeeCwr3g5n4vPA" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_uB1h3fvCEeeCwr3g5n4vPA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_uB1h3vvCEeeCwr3g5n4vPA" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_uB1h3_vCEeeCwr3g5n4vPA" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_uB1h4PvCEeeCwr3g5n4vPA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_uB1h4fvCEeeCwr3g5n4vPA" id="TalendStringUtil" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_46hYEPvBEeeCwr3g5n4vPA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_46hYEfvBEeeCwr3g5n4vPA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_46hYEvvBEeeCwr3g5n4vPA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
